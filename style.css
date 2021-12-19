@@ -12,6 +12,7 @@ body {
 
 button {
   font-size: 7px;
+  padding: 4px 6px;
 }
 
 #main-content {
@@ -35,3 +36,8 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+select {
+  padding: 4px;
+}
+
